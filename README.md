@@ -176,7 +176,7 @@ The project highlights how ride-booking data can be used to identify operational
 
 ---
 
-## 👤 Author
+## Author
 **Umesh Harsana**  
 - B.Tech, IIT(BHU) Varanasi  
 - Aspiring Data Analyst
