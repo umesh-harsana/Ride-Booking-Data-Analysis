@@ -92,7 +92,7 @@ The Power BI dashboard was divided into multiple analytical sections using page 
 
 ### 1. Overall Analysis
 
-![images](dashboard_overall.png)
+![Overall Dashboard](images/dashboard_overall.png)
 
 Includes:
 - KPI metrics
@@ -103,7 +103,7 @@ Includes:
 
 ### 2. Cancellation Analysis
 
-![images](dashboard_cancellation.png)
+![Cancellation Dashboard](images/dashboard_cancellation.png)
 
 Includes:
 - Cancellation rate analysis
@@ -114,7 +114,7 @@ Includes:
 
 ### 3. Vehicle Type Analysis
 
-![images](dashboard_vehicle_type.png)
+![Vehicle Type Dashboard](images/dashboard_vehicle_type.png)
 
 Includes:
 - Vehicle-wise bookings
