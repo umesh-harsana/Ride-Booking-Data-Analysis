@@ -173,3 +173,10 @@ This project demonstrates end-to-end data analytics workflow including:
 - Interactive dashboard development
 
 The project highlights how ride-booking data can be used to identify operational bottlenecks, improve customer experience, and optimize revenue performance.
+
+---
+
+## 👤 Author
+**Umesh Harsana**  
+- B.Tech, IIT(BHU) Varanasi  
+- Aspiring Data Analyst
