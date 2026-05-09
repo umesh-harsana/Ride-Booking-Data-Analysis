@@ -1,4 +1,4 @@
-# Ride Booking Data Analysis
+# 🚖 Ride Booking Data Analysis
 
 ## Project Overview
 This project analyzes ride booking operations of an online ride-hailing platform to identify booking trends, cancellation patterns, revenue performance, and vehicle-wise performance.
